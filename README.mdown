@@ -1,0 +1,5 @@
+## Shiny to plot interactive visualization for a Tweet analysis
+
+Screenshot:
+
+<img src="screenshot.png" width="500">
